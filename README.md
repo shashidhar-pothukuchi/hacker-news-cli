@@ -1,9 +1,9 @@
 # hn — a Hacker News command-line reader
 
-A small terminal client for Hacker News I built to learn Swift's concurrency
-model. It fetches the current top stories and prints them ranked.
+A small terminal client for Hacker News I built to learn Swift
 
-No dependencies, no API key (uses the public Firebase HN API).
+It fetches the current top stories and prints them ranked.
+
 
 ## Run
 
