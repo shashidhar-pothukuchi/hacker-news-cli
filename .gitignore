@@ -1,0 +1,16 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj/
+
+# Xcode / IDEs
+xcuserdata/
+*.xcworkspace/
+*.idea/
+.vscode/
+
+# OS specific
+.DS_Store
